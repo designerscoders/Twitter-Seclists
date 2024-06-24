@@ -260,3 +260,5 @@ https://twitter.com/i/lists/1253517962272743424
 |[@Zealsham](https://twitter.com/Zealsham) | Shammah Agwor | #BugBounty Hunter Appsec and Javascript Dev #hackerone / #bugcrowd | Med lab scientist | . going around with golang
 |[@zonduu1](https://twitter.com/zonduu1) | zonduu | Hacking the Planet - Synack Red Team member.
 |[@zseano](https://twitter.com/zseano) | zseano | web app hacker, building @BugBountyHunt3r - work in progress! :)
+|[@rana__khalil](https://twitter.com/rana__khalil) | Rana Khalil | AppSec Team Lead | OSCP | CEO & Instructor of @ranakhalilacad
+|[@thecybermentor](https://twitter.com/thecybermentor) | Heath Maverick Adams | Husband | Vet | Founder @TCMSecurity | YouTuber | Professor | Disrupting the education industry via TCM Academy
